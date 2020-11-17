@@ -6,20 +6,29 @@ cars resource creates, list carts.
 Order resouce creates and lists orders.
 
 product resource:
+
 	/products
 	
 	/products/{idProduct}	
+	
 Cart Resource:
+
 /carts
+
 /carts{idCart}
+
 
 Order Resource
 /orders
+
 /orders{idCart}
+
 
 Customer Resource
 /customers
+
 /customers{idCustomer}
+
 
 intial data, products
 [
