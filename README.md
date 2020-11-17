@@ -17,6 +17,8 @@ Cart Resource:
 
 /carts{idCart}
 
+/carts{idCart}?idProduct=idProduct&quantity=quantity
+
 
 Order Resource
 /orders
