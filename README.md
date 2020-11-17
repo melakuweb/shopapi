@@ -1,9 +1,9 @@
 # shopapi
 shop API for SpringBoot assessment
-This shop API exposes product, cart , order and customer resources
-product resources lists availale products
-cars resources creats, list carts
-Order resouce create and lists orders,
+This shop API exposes product, cart , order and customer resources.
+product resource lists availale products.
+cars resource creates, list carts.
+Order resouce creates and lists orders.
 
 product resource:
 	/products
