@@ -7,6 +7,7 @@ Order resouce creates and lists orders.
 
 product resource:
 	/products
+	
 	/products/{idProduct}	
 Cart Resource:
 /carts
