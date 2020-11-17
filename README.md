@@ -25,12 +25,14 @@ Order Resource
 
 
 Customer Resource
+
 /customers
 
 /customers{idCustomer}
 
 
 intial data, products
+
 [
     {
         "idProduct": 1,
@@ -48,7 +50,9 @@ intial data, products
     }
 ]
 
+
 intial data, Customers
+
     {
         "lastName": "Abitew",
         "username": "amelaku",
