@@ -1,4 +1,5 @@
 # shopapi
+// shoping rest api
 shop API for SpringBoot assessment
 This shop API exposes product, cart , order and customer resources.
 product resource lists availale products.
