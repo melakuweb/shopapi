@@ -1,5 +1,5 @@
 # shopapi
-// shoping rest api
+// shoping rest api, for git excerise 
 shop API for SpringBoot assessment
 This shop API exposes product, cart , order and customer resources.
 product resource lists availale products.
@@ -57,7 +57,7 @@ intial data, products
 intial data, Customers
 
     {
-        "lastName": "Abitew",
+        "lastName": "Ategegne",
         "username": "amelaku",
         "orders": [],
         "carts": [],
