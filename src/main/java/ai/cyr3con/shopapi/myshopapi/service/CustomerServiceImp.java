@@ -21,12 +21,13 @@ public class CustomerServiceImp implements CustomerService {
 		
 		return customerDao.save(customer);
 	}
-
+    // find a customer by id
 	@Override
 	public Customer findBy(Long id) {		
 		return customerDao.findBy(id);
 	}
 
+   // find all customer 
 	@Override
 	public List<Customer> findAll() {		
 		return customerDao.findAll();
