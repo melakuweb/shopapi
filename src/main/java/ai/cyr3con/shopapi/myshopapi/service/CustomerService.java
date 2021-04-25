@@ -6,7 +6,7 @@ import java.util.List;
 import ai.cyr3con.shopapi.myshopapi.model.Customer;
 
 public interface CustomerService {
-
+     // new changes
 	Long addCustomer(Customer customer) throws NoSuchAlgorithmException;
 	Customer findBy( Long id);	
 	List<Customer> findAll();
